@@ -28,9 +28,6 @@ Python in Jupyter Notebook, SciKit Learn, Numpy, Pandas, Seaborn, Matplotlib and
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-    - [Usage](#usage)
-    - [Testing](#testing)
-
 ---
 
 ## Overview
@@ -79,18 +76,6 @@ Build Machine-Learning-Pipeline- from the source and intsall dependencies:
 3. **Install the dependencies:**
 
 echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### Testing
-
-Machine-learning-pipeline- uses the {__test_framework__} test framework. Run the test suite with:
-
-echo 'INSERT-TEST-COMMAND-HERE'
 
 ---
 
