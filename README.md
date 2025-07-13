@@ -55,7 +55,11 @@ This project empowers developers to efficiently manage the entire lifecycle of m
 
 This project requires the following dependencies:
 
-- **Programming Language:** JupyterNotebook
+- **Programming Language:** JupyterNotebook, Python
+- **Libraries and Dependencies Used**: Pandas, Numpy, Maplotlib, Seaborn, Scikit Learn, Joblib(to save model checkpoints)
+- **Data Visualisations Produced**: Correlation Heatmap, Scatter Plot, Bar Plot (Evaluation and Insights Provided) 
+- **Data Cleaning Methods Used**: Removing Duplicates, Filling Null Values With Imputer, Encoding Values, Scaling Values(within range of 0,1), Removing Unnecessary Features (Feature Engineering)
+- **Machine Learning Algorithms and Techniques used**: Splitting Data into Train and Test Sets, Random Forrest Regressor (with default parameters), Calculating Evaluation Metrics(RMSE, R2-Score, MAE)
 
 ### Installation
 
@@ -72,11 +76,6 @@ Build Machine-Learning-Pipeline- from the source and intsall dependencies:
     ```sh
     ❯ cd Machine-Learning-Pipeline-
     ```
-
-3. **Install the dependencies:**
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
